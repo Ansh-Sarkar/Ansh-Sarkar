@@ -1,10 +1,11 @@
-# I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *Cyclopstark* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
+# I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *SeraphimCoder* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
 [![Linkedin Badge](https://img.shields.io/badge/-AnshSarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-sarkar-1150511b0/)](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) [![Gmail Badge](https://img.shields.io/badge/-anshsarkar18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Cyclopstark?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Cyclopstark/Cyclopstark?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Cyclopstark?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Ansh-Sarkar/Ansh-Sarkar?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Ansh-Sarkar?style=for-the-badge">
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
+Click here to go to my previous github account : [Cyclopstark](https://github.com/Cyclopstark)
 ## Welcome to my World :earth_asia: . . .
-My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
+My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 <!--defining python code section-->
 ## Who am I :point_down:?
 ```python
@@ -49,7 +50,9 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 <!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
 <!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
-![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&show_icons=true)
+![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Ansh-Sarkar&show_icons=true)
+
+**For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
