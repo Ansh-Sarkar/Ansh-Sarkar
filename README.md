@@ -40,7 +40,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="418px" width="398px">
+<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="200px" width="200px">
 
 <!-- frameworks. added api calls to compact cards -->
 
@@ -50,7 +50,10 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 <!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
 <!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
+# 
+
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Ansh-Sarkar&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
