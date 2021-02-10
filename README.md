@@ -54,6 +54,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Ansh-Sarkar&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
 **For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
