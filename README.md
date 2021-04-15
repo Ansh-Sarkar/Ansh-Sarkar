@@ -61,14 +61,12 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 #
 
 <!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
-
 <img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-
 **For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
