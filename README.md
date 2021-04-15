@@ -60,10 +60,13 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 
 #
 
-<img  align='left' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="165px" width="125px" style="margin:0;">
+<div>
+	
+<img  align='left' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="165px" width="125px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 #
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
