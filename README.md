@@ -53,10 +53,18 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 <!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
 <!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
+
 # 
 
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Ansh-Sarkar&show_icons=true)
+
+#
+
+<img  align='left' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="165px" width="125px" style="margin:0;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
 **For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
