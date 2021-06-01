@@ -47,6 +47,8 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18
 
 <!-- frameworks. added api calls to compact cards -->
 
+<!--[![Generic badge](https://img.shields.io/badge/Marketplace-VSCode-green.svg)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
+
 ## Languages :computer: and Frameworks I Love :heart:
 <img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' height='60' /> <img src='images/bash.png' height='60' /> <img src='images/pandas.png' height='60' /> <img src='images/qiskit.jpg' height='60' /> <img src='images/tkinter.jpg' height='60' /> <img src='images/graphql.png' height='60' /> <img src='images/svelte.png' height='60' /> <img src='images/wordpress.png' height='60' /> <img src='images/apollo.png' height='60' /> <img src='images/leaflet.gif' height='60' /> <img src='images/moibit_matic.png' height='60' /> <img src='images/react.jpg' height='60' /> <img src='images/vuejs.jpg' height='60' />
 
