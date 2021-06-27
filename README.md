@@ -5,7 +5,7 @@
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
 Click here to go to my previous github account : [Cyclopstark](https://github.com/Cyclopstark)
 ## Welcome to my World :earth_asia: . . .
-My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am an 18 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
+My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 <!--defining python code section-->
 
 ![Ansh Sarkar's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ansh-sarkar&theme=react-dark&hide_border=true&area=true)
