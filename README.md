@@ -63,7 +63,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 
 #
 
 <!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
-<img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">
+<!--<img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">-->
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
