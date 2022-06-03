@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 # I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *SeraphimCoder* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
 [![Linkedin Badge](https://img.shields.io/badge/-AnshSarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-sarkar-1150511b0/)](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) [![Gmail Badge](https://img.shields.io/badge/-anshsarkar18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=flat-square" alt="Ansh-Sarkar" />
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
