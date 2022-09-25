@@ -3,15 +3,16 @@
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
-Click here to go to my previous github account : [Cyclopstark](https://github.com/Cyclopstark)
+
 ## Welcome to my World :earth_asia: . . .
-My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
+My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 20 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 <!--defining python code section-->
 
 ## Who am I :point_down:?
 ```python
  from Ansh_Sarkar import personal_details
  # from Ansh_Personal import personal_ambitions
+ 
  class WhoAmI:
  	name = 'Ansh Sarkar'
 	current_education = "B.Tech CSE"
@@ -41,13 +42,14 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">
+<!--<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">-->
 
 <!-- frameworks. added api calls to compact cards -->
 
 <!--[![Generic badge](https://img.shields.io/badge/Marketplace-VSCode-green.svg)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
 
 ## Languages :computer: and Frameworks I Love :heart:
+
 <img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' height='60' /> <img src='images/bash.png' height='60' /> <img src='images/pandas.png' height='60' /> <img src='images/qiskit.jpg' height='60' /> <img src='images/tkinter.jpg' height='60' /> <img src='images/graphql.png' height='60' /> <img src='images/svelte.png' height='60' /> <img src='images/wordpress.png' height='60' /> <img src='images/apollo.png' height='60' /> <img src='images/leaflet.gif' height='60' /> <img src='images/moibit_matic.png' height='60' /> <img src='images/react.jpg' height='60' /> <img src='images/vuejs.jpg' height='60' />
 
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
@@ -67,7 +69,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 
 
 #
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-**For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
@@ -85,7 +87,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : **anshsarkar18@gmail.**
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
-You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
+You can also contact me via LinkedIn. To connect , click on the LinkedIn tab in the header section of this Readme . . .
 
 :copyright: ReadMe Designed by Ansh Sarkar a.k.a SeraphimCoder
 
