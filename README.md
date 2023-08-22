@@ -1,11 +1,7 @@
 <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
 
 <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="60">
-
-# I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: (The Boulder 🪨)
-
-<!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">-->
-
+<h1 width="100">Hey There! I'm <a href="https://www.linkedin.com/in/Ansh-Sarkar">Ansh Sarkar</a> :sunglasses: (The Boulder 🪨)</h1> 
 
 <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
 
