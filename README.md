@@ -79,9 +79,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 
 	<img src='images/react.jpg' height='60' />
 	<img src='images/vuejs.jpg' height='60' />
 </div>
-
-#
-
+<br/>
 <div align="center">
 	<a href="https://github.com/Ansh-Sarkar">
 	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-sarkar" />
@@ -90,7 +88,13 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 
 	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-sarkar&layout=donut&langs_count=5" />
 	</a>
 </div>
-
+<div align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake.svg)" />
+	  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg)" />
+	</picture>
+</div>
 
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
