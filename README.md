@@ -1,12 +1,20 @@
-# I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *SeraphimCoder* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
-[![Linkedin Badge](https://img.shields.io/badge/-AnshSarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-sarkar-1150511b0/)](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) [![Gmail Badge](https://img.shields.io/badge/-anshsarkar18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=flat-square" alt="Ansh-Sarkar" />
-<!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
-<!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
+<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="60">
+
+# I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: (The Boulder 🪨)
+
+<!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">-->
+
+
+<img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
+
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/channels/@me/cryonit/) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/iBouldr)  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ansh-sarkar/)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Ansh-Sarkar)  &nbsp;
+<a href="mailto:anshsarkar18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## Welcome to my World :earth_asia: . . .
-My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
-<!--defining python code section-->
+My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
 
 ## Who am I :point_down:?
 ```python
@@ -41,33 +49,50 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 
 --- | --- | --- | ---
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
-<!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<!--<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">-->
+#
 
-<!-- frameworks. added api calls to compact cards -->
-
-<!--[![Generic badge](https://img.shields.io/badge/Marketplace-VSCode-green.svg)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
-
-## Languages :computer: and Frameworks I Love :heart:
-
-<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' height='60' /> <img src='images/bash.png' height='60' /> <img src='images/pandas.png' height='60' /> <img src='images/qiskit.jpg' height='60' /> <img src='images/tkinter.jpg' height='60' /> <img src='images/graphql.png' height='60' /> <img src='images/svelte.png' height='60' /> <img src='images/wordpress.png' height='60' /> <img src='images/apollo.png' height='60' /> <img src='images/leaflet.gif' height='60' /> <img src='images/moibit_matic.png' height='60' /> <img src='images/react.jpg' height='60' /> <img src='images/vuejs.jpg' height='60' />
-
-<!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
-<!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
-<!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
-
-# 
-
-![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Ansh-Sarkar&show_icons=true)
+<h2 align="center"> Languages :computer: and Frameworks I Love :heart: </h2>
+<br/>
+<div align="center">
+	<img src = 'images/bootstrap.svg' height='60'/>
+	<img src = 'images/c-original.svg' height='60'/>
+	<img src = 'images/cpp.svg' height='60'/>
+	<img src = 'images/css.svg' height='60'/>
+	<img src = 'images/django.svg' height='60'/>
+	<img src = 'images/flask.png' height='60'/>
+	<img src = 'images/git.svg' height='60'/>
+	<img src = 'images/html.svg' height='60'/>
+	<img src = 'images/js.svg' height='60'/>
+	<img src = 'images/pycharm.svg' height='60'/>
+	<img src = 'images/python.svg' height='60'/>
+	<img src = 'images/sql.svg' height='60'/>
+	<img src='images/numpy.png' height='60' />
+	<img src='images/bash.png' height='60' />
+	<img src='images/pandas.png' height='60' />
+	<img src='images/qiskit.jpg' height='60' />
+	<img src='images/tkinter.jpg' height='60' />
+	<img src='images/graphql.png' height='60' />
+	<img src='images/svelte.png' height='60' />
+	<img src='images/wordpress.png' height='60' />
+	<img src='images/apollo.png' height='60' />
+	<img src='images/leaflet.gif' height='60' />
+	<img src='images/moibit_matic.png' height='60' />
+	<img src='images/react.jpg' height='60' />
+	<img src='images/vuejs.jpg' height='60' />
+</div>
 
 #
 
-<!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
-<!--<img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">-->
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+	<a href="https://github.com/Ansh-Sarkar">
+	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-sarkar" />
+	</a>
+	<a href="https://github.com/Ansh-Sarkar">
+	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-sarkar&layout=donut&langs_count=5" />
+	</a>
+</div>
 
-#
+
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
