@@ -12,7 +12,7 @@
 
 ## Welcome to my World :earth_asia: . . .
 <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="side Image" align="right" width="auto" height="100" />
-My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
+My name is <strong>Ansh Sarkar</strong> :raising_hand: a.k.a <strong>The Boulder</strong> and I am a 21 year old <strong>Web Developer</strong> :zap: , <strong>Cyber-Sec Enthusiast</strong> :lock:, <strong>UX designer</strong> :artist: , <strong>Researcher</strong> :microscope: and a <strong>Book Worm</strong> :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
 
 ## Who am I :point_down:?
 ```python
