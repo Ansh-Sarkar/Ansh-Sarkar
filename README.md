@@ -113,7 +113,7 @@ Feel free to shoot a mail to : **anshsarkar18@gmail.**
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
 You can also contact me via LinkedIn. To connect , click on the LinkedIn tab in the header section of this Readme . . .
 
-:copyright: ReadMe Designed by Ansh Sarkar a.k.a SeraphimCoder
+:copyright: ReadMe Designed by Ansh Sarkar</a> :sunglasses: (The Boulder 🪨)
 
 ##
 Note : Although Responsive , this ReadMe is best viewed at 1280 x 720 resolution
