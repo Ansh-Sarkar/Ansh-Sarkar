@@ -48,8 +48,6 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 
 --- | --- | --- | ---
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
-#
-
 <h2 align="center"> Languages :computer: and Frameworks I Love :heart: </h2>
 <br/>
 <div align="center">
