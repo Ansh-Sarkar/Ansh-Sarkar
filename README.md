@@ -91,8 +91,8 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 21 
 <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake.svg)" />
-	  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg)" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake.svg" />
+	  <img alt="github-snake" src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
 	</picture>
 </div>
 
