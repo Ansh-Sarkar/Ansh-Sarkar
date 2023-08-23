@@ -94,6 +94,9 @@ My name is <strong>Ansh Sarkar</strong> :raising_hand: a.k.a <strong>The Boulder
 	</picture>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
