@@ -95,6 +95,15 @@ My name is <strong>Ansh Sarkar</strong> :raising_hand: a.k.a <strong>The Boulder
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 August 2023 - To: 23 August 2023
+
+Total Time: 0 secs
+
+Python   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
