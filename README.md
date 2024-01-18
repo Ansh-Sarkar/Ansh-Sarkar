@@ -1,10 +1,5 @@
 <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
 
-<br/>
-<p align="center" style="font-size: 100;">
-	<strong><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥</i></strong>
-</p>
-
 <h1 width="100"><a href="https://www.linkedin.com/in/Ansh-Sarkar">The Boulder</a> 🪨</h1> 
 
 <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
@@ -14,6 +9,9 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ansh-sarkar/)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Ansh-Sarkar)  &nbsp;
 <a href="mailto:anshsarkar18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+<p align="center" style="font-size: 100;"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br/>मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥</i></p>
+<br/>
 
 My name is <strong>Ansh Sarkar</strong> :raising_hand: a.k.a <strong>The Boulder</strong> and I am a 21 year old <strong>Web Developer</strong> :zap: , <strong>Cyber-Sec Enthusiast</strong> :lock:, <strong>UX designer</strong> :artist: , <strong>Researcher</strong> :microscope: and a <strong>Book Worm</strong> :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
 
