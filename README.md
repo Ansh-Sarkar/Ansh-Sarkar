@@ -13,43 +13,8 @@
 <p align="center" style="font-size: 100;"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br/>मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥</i></p>
 <br/>
 
-My name is <strong>Ansh Sarkar</strong> :raising_hand: a.k.a <strong>The Boulder</strong> and I am a 21 year old <strong>Web Developer</strong> :zap: , <strong>Cyber-Sec Enthusiast</strong> :lock:, <strong>UX designer</strong> :artist: , <strong>Researcher</strong> :microscope: and a <strong>Book Worm</strong> :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
+My name is <strong>Ansh Sarkar</strong> a.k.a <strong>The Boulder</strong> and I am a 22 year old Software Engineer. I love learning & building systems that scale, increasing connections and looking out for oppurtunities I can grab. I'm also into competitive coding while spending a fair amount of time going through business case studies and research papers. I am a firm believer that "Knowledge is Power" and strive to learn something new every single day.
 
-## Who am I :point_down:?
-```python
- from Ansh_Sarkar import personal_details
- # from Ansh_Personal import personal_ambitions
- 
- class WhoAmI:
- 	name = 'Ansh Sarkar'
-	current_education = "B.Tech CSE"
-	hobbies = [
-				'Drawing',
-				'Watching Sci-Fi',
-				'Reading Sci-Fi Novels',
-				'Learning New Programming Languages or Frameworks',
-        			'Making friends ...'
-			]
-			
-	# return city name ...
-	def getCity():
-		retrun Siliguri_WestBengal_India_Asia_Earth()
-		
-	# return public ambitions ...
-	def Ambitions():
-		Become_A_Billionaire()
-		Create_An_Ironman_Suit()
-		Be_The_Best()
-		# private_ambitions out of scope :-)
-	
-```
-
-## My Top 4 Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani) [**(Reliance)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
---- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
-
-<h2 align="center"> Languages :computer: and Frameworks I Love :heart: </h2>
 <br/>
 <div align="center">
 	<img src = 'images/bootstrap.svg' height='60'/>
@@ -94,6 +59,11 @@ My name is <strong>Ansh Sarkar</strong> :raising_hand: a.k.a <strong>The Boulder
 	  <img alt="github-snake" src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
 	</picture>
 </div>
+
+## Role Models :scientist:
+[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani) [**(Reliance)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
+--- | --- | --- | ---
+![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!-- Add the "START_SECTION:waka" part after sufficiently building contribution history -->
 <!-- Add the "END_SECTION:waka" part after sufficiently building contribution history -->
