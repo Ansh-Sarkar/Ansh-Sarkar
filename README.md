@@ -60,11 +60,6 @@ My name is <strong>Ansh Sarkar</strong> a.k.a <strong>The Boulder</strong> and I
 	</picture>
 </div>
 
-## Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani) [**(Reliance)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
---- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
-
 <!-- Add the "START_SECTION:waka" part after sufficiently building contribution history -->
 <!-- Add the "END_SECTION:waka" part after sufficiently building contribution history -->
 
