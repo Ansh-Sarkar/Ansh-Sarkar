@@ -13,7 +13,7 @@
 <p align="center" style="font-size: 100;"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br/>मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥</i></p>
 <br/>
 
-My name is <strong>Ansh Sarkar</strong> a.k.a <strong>The Boulder</strong> and I am a 22 year old Software Engineer. I love learning & building systems that scale, increasing connections and looking out for oppurtunities I can grab. I'm also into competitive coding while spending a fair amount of time going through business case studies and research papers. I am a firm believer that "Knowledge is Power" and strive to learn something new every single day.
+My name is <strong>Ansh Sarkar</strong> a.k.a <strong>The Boulder</strong> and I am a 23 year old Software Engineer. I love learning & building systems that scale, increasing connections and looking out for oppurtunities I can grab. I'm also into competitive coding while spending a fair amount of time going through business case studies and research papers. I am a firm believer that "Knowledge is Power" and strive to learn something new every single day.
 
 <br/>
 <div align="center">
