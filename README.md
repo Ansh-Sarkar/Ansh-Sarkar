@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
 <!-- <img src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/refs/heads/main/images/slevel.png" alt="header-image" width="100%"> -->
 
 <h1 width="100"><a href="https://www.linkedin.com/in/Ansh-Sarkar">Ansh Sarkar</a></h1> 
@@ -21,3 +20,5 @@
 </b></p>
 
 Have a Project? 🚧 Think I can contribute? 💡 Need some help? 🛠️ Feel free to shoot a mail to: [**anshsarkar18@gmail.com**](mailto:anshsarkar18@gmail.com). 📧. In most cases I respond within 24-48 hrs ⏰. You can also contact me via [**LinkedIn**](https://www.linkedin.com/in/ansh-sarkar) 🔗.
+
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
