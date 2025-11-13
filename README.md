@@ -20,4 +20,4 @@
   मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
 </b></p>
 
-Have a Project? 🚧 Think I can contribute? 💡 Need some help? 🛠️ Feel free to shoot a mail to: [**anshsarkar18@gmail.com**](mailto:anshsarkar18@gmail.com). 📧. Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs ⏰. You can also contact me via [**LinkedIn**](https://www.linkedin.com/in/ansh-sarkar) 🔗.
+Have a Project? 🚧 Think I can contribute? 💡 Need some help? 🛠️ Feel free to shoot a mail to: [**anshsarkar18@gmail.com**](mailto:anshsarkar18@gmail.com). 📧. In most cases I respond within 24-48 hrs ⏰. You can also contact me via [**LinkedIn**](https://www.linkedin.com/in/ansh-sarkar) 🔗.
