@@ -15,50 +15,6 @@
 
 My name is <strong>Ansh Sarkar</strong> a.k.a <strong>The Boulder</strong> and I am a 23 year old Software Engineer. I love learning & building systems that scale, increasing connections and looking out for oppurtunities I can grab. I'm also into competitive coding while spending a fair amount of time going through business case studies and research papers. I am a firm believer that "Knowledge is Power" and strive to learn something new every single day.
 
-<br/>
-<div align="center">
-	<img src = 'images/bootstrap.svg' height='60'/>
-	<img src = 'images/c-original.svg' height='60'/>
-	<img src = 'images/cpp.svg' height='60'/>
-	<img src = 'images/css.svg' height='60'/>
-	<img src = 'images/django.svg' height='60'/>
-	<img src = 'images/flask.png' height='60'/>
-	<img src = 'images/git.svg' height='60'/>
-	<img src = 'images/html.svg' height='60'/>
-	<img src = 'images/js.svg' height='60'/>
-	<img src = 'images/pycharm.svg' height='60'/>
-	<img src = 'images/python.svg' height='60'/>
-	<img src = 'images/sql.svg' height='60'/>
-	<img src='images/numpy.png' height='60' />
-	<img src='images/bash.png' height='60' />
-	<img src='images/pandas.png' height='60' />
-	<img src='images/qiskit.jpg' height='60' />
-	<img src='images/tkinter.jpg' height='60' />
-	<img src='images/graphql.png' height='60' />
-	<img src='images/svelte.png' height='60' />
-	<img src='images/wordpress.png' height='60' />
-	<img src='images/apollo.png' height='60' />
-	<img src='images/leaflet.gif' height='60' />
-	<img src='images/moibit_matic.png' height='60' />
-	<img src='images/react.jpg' height='60' />
-	<img src='images/vuejs.jpg' height='60' />
-</div>
-<br/>
-<div align="center">
-	<a href="https://github.com/Ansh-Sarkar">
-	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-sarkar" />
-	</a>
-	<a href="https://github.com/Ansh-Sarkar">
-	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-sarkar&layout=donut&langs_count=5" />
-	</a>
-</div>
-<div align="center">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake.svg" />
-	  <img alt="github-snake" src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
-	</picture>
-</div>
 
 <!-- Add the "START_SECTION:waka" part after sufficiently building contribution history -->
 <!-- Add the "END_SECTION:waka" part after sufficiently building contribution history -->
