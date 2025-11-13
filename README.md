@@ -1,12 +1,11 @@
-<!-- <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%"> -->
-
-<img src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/refs/heads/main/images/slevel.png" alt="header-image" width="100%">
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/refs/heads/main/images/slevel.png" alt="header-image" width="100%"> -->
 
 <h1 width="100"><a href="https://www.linkedin.com/in/Ansh-Sarkar">The Boulder</a> 🪨</h1> 
 
-<img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" />
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge"> -->
 
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/channels/@me/cryonit/) &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/iBouldr)  &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ansh-sarkar/)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Ansh-Sarkar)  &nbsp;
