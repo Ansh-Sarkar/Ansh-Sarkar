@@ -15,32 +15,7 @@
 
 My name is <strong>Ansh Sarkar</strong> a.k.a <strong>The Boulder</strong> and I am a 23 year old Software Engineer. I love learning & building systems that scale, increasing connections and looking out for oppurtunities I can grab. I'm also into competitive coding while spending a fair amount of time going through business case studies and research papers. I am a firm believer that "Knowledge is Power" and strive to learn something new every single day.
 
-
-<!-- Add the "START_SECTION:waka" part after sufficiently building contribution history -->
-<!-- Add the "END_SECTION:waka" part after sufficiently building contribution history -->
-
-<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
-## Current Status
-- 🔭 I’m currently working on improving :construction: my coding skills
-- 🌱 I’m currently learning Algorithmic Analysis :chart_with_upwards_trend:
-- 👯 I’m looking to collaborate with future Entrepreneurs :scientist: with cool ideas :bomb: and projects
-- 💬 Ask me about anything , always happy to help :wink:
-- 📫 How to reach me: Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
-
-## Contributions :file_folder:
-1. If you think that any of my repositories :mailbox_with_mail: could be better please feel free to raise an Issue :hand: or let me know via email :email:.
-2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
-3. Please do not spam :x:.
-
-## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : **anshsarkar18@gmail.**
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
 You can also contact me via LinkedIn. To connect , click on the LinkedIn tab in the header section of this Readme . . .
-
-:copyright: ReadMe Designed by Ansh Sarkar</a> :sunglasses: (The Boulder 🪨)
-
-##
-Note : Although Responsive , this ReadMe is best viewed at 1280 x 720 resolution
