@@ -2,7 +2,7 @@
 
 <h1 width="100"><a href="https://www.linkedin.com/in/Ansh-Sarkar">Ansh Sarkar</a></h1> 
 
-<img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" /> -->
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge"> -->
 
 <!--
