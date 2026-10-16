@@ -12,7 +12,7 @@
 <a href="mailto:anshsarkar18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 -->
 
-23 yr old **Software Engineer** 💻. Love learning 📚 & building systems that scale 🚀 while networking with amazing folks 🤝. I'm also into competitive programming 🏅 and love going through **biz case studies** 📊 & **research papers** 📑.
+24 yr old **Software Engineer** 💻. Love learning 📚 & building systems that scale 🚀 while networking with amazing folks 🤝. I'm also into competitive programming 🏅 and love going through **biz case studies** 📊 & **research papers** 📑.
 
 <p align="center" style="font-size: 100;"> <b>
   कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । <br/>
